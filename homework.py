@@ -14,3 +14,6 @@ if __name__ == '__main__':
     graph = {0: [1, 2], 1: [2], 2: [3], 3: [1, 2]}
     print("Following is Depth First Traversal: ")
     dfs(graph, 0)
+
+# Hamza Alrubasi
+# 201970188
